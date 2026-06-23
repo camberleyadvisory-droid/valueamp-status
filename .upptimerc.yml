@@ -1,0 +1,24 @@
+# Upptime configuration for the ValueAmp public status page
+# Docs: https://upptime.js.org/docs/configuration
+
+owner: camberleyadvisory-droid
+repo: valueamp-status
+
+sites:
+  - name: ValueAmp App
+    url: https://app.valueamp.co.uk
+
+status-website:
+  cname: status.valueamp.co.uk
+  name: ValueAmp Status
+  logoUrl: https://app.valueamp.co.uk/icon-192.png
+  introTitle: "**ValueAmp** platform status"
+  introMessage: >-
+    Real-time and historical availability of the ValueAmp platform, checked
+    every 5 minutes and powered entirely by GitHub Actions. Our Service Level
+    Agreement targets **99.5%** monthly uptime.
+  navbar:
+    - title: Status
+      href: /
+    - title: ValueAmp
+      href: https://valueamp.co.uk

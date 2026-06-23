@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ValueAmp App",
+    "url": "https://app.valueamp.co.uk",
+    "icon": "https://icons.duckduckgo.com/ip3/app.valueamp.co.uk.ico",
+    "slug": "value-amp-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 472,
+    "timeDay": 472,
+    "timeWeek": 472,
+    "timeMonth": 472,
+    "timeYear": 472,
+    "dailyMinutesDown": {}
+  }
+]

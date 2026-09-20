@@ -11,7 +11,10 @@ sites:
 status-website:
   cname: status.valueamp.co.uk
   name: ValueAmp Status
-  logoUrl: https://app.valueamp.co.uk/icon-192.png
+  # Cache-busted: the platform served an unrelated project's icon here until
+  # Sep 2026, and GitHub Pages / the CDN hold the old bitmap hard. Bump ?v=
+  # whenever public/icon-192.png changes in valueamp-platform.
+  logoUrl: https://app.valueamp.co.uk/icon-192.png?v=2
   introTitle: "**ValueAmp** platform status"
   introMessage: >-
     Real-time and historical availability of the ValueAmp platform, checked
